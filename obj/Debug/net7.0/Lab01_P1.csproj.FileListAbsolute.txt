@@ -1,0 +1,14 @@
+C:\Users\Alumno\source\repos\Lab01_P1\Lab01_P1\bin\Debug\net7.0\Lab01_P1.exe
+C:\Users\Alumno\source\repos\Lab01_P1\Lab01_P1\bin\Debug\net7.0\Lab01_P1.deps.json
+C:\Users\Alumno\source\repos\Lab01_P1\Lab01_P1\bin\Debug\net7.0\Lab01_P1.runtimeconfig.json
+C:\Users\Alumno\source\repos\Lab01_P1\Lab01_P1\bin\Debug\net7.0\Lab01_P1.dll
+C:\Users\Alumno\source\repos\Lab01_P1\Lab01_P1\bin\Debug\net7.0\Lab01_P1.pdb
+C:\Users\Alumno\source\repos\Lab01_P1\Lab01_P1\obj\Debug\net7.0\Lab01_P1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\source\repos\Lab01_P1\Lab01_P1\obj\Debug\net7.0\Lab01_P1.AssemblyInfoInputs.cache
+C:\Users\Alumno\source\repos\Lab01_P1\Lab01_P1\obj\Debug\net7.0\Lab01_P1.AssemblyInfo.cs
+C:\Users\Alumno\source\repos\Lab01_P1\Lab01_P1\obj\Debug\net7.0\Lab01_P1.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\Lab01_P1\Lab01_P1\obj\Debug\net7.0\Lab01_P1.dll
+C:\Users\Alumno\source\repos\Lab01_P1\Lab01_P1\obj\Debug\net7.0\refint\Lab01_P1.dll
+C:\Users\Alumno\source\repos\Lab01_P1\Lab01_P1\obj\Debug\net7.0\Lab01_P1.pdb
+C:\Users\Alumno\source\repos\Lab01_P1\Lab01_P1\obj\Debug\net7.0\Lab01_P1.genruntimeconfig.cache
+C:\Users\Alumno\source\repos\Lab01_P1\Lab01_P1\obj\Debug\net7.0\ref\Lab01_P1.dll
